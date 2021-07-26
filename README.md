@@ -4,15 +4,15 @@
 
 - Usuário
 
-    [  ] Cadastro com nome, email e senha;
+    [ X ] Cadastro com nome, email e senha;
 
-    [  ] Pode alterar o email, senha e o nome quando desejar;
+    [ X ] Pode alterar o email, senha e o nome quando desejar;
 
-    [  ] Login com email e senha;
+    [ X ] Login com email e senha;
 
-    [  ] Cadastrar tarefas;
+    [ X ] Cadastrar tarefas;
 
-    [  ] Concluir tarefas;
+    [ X ] Concluir tarefas;
 
-    [  ] Excluir tarefas não concluídas;
+    [ X ] Excluir tarefas não concluídas;
 
